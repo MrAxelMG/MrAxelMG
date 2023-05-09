@@ -1,3 +1,6 @@
+<div style="text-align:center;">
+  <img align="center" alt="apex" width="100%" src="Apex.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm Axel Alejandro</h1>
 <h3 align="center">Un programador apasionado por el diseño de interfaces.</h3>
