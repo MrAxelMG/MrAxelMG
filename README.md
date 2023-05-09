@@ -35,5 +35,5 @@
 <hr>
 
 <div style="text-align:center;">
-  <img align="center" alt="Apexmg" width="100%" src="Apex.gif">
+  <img align="center" alt="Apexmg" width="100%" src="Apex2.gif">
 </div>
