@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Axel Alejandro</h1>
 <h3 align="center">Un programador apasionado por el diseño de interfaces.</h3>
-<img align="center" alt="hacking" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="center" alt="hacking" width="400" style="text-align:center;" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraxelmg&label=Profile%20views&color=0e75b6&style=flat" alt="mraxelmg" /> </p>
 
