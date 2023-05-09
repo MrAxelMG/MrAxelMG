@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <img align="center" alt="apex" width="100%" src="Apex.gif">
+  <img align="center" alt="Apex" width="100%" src="Apex.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Axel Alejandro</h1>
