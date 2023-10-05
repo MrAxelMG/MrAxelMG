@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Axel Alejandro</h1>
-<h3 align="center">Un programador apasionado por el diseño de interfaces.</h3>
+<h3 align="center">Hey, I’m an Engineer And I like to do interface UI.</h3>
 
 <div style="text-align:center;">
   <img align="center" alt="hacking" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
