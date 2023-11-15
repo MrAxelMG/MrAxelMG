@@ -5,12 +5,22 @@
 <h1 align="center">Hi 👋, I'm Axel Alejandro</h1>
 <h3 align="center">Hey, I’m an Engineer And I like to do interface UI.</h3>
 
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 crazy 𝚒𝚍𝚎𝚊𝚜
+- 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 IT development at TG.
+- 🎓 Technology 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Durango MX, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 March 𝟸023
+
+
+
 <div style="text-align:center;">
   <img align="center" alt="hacking" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraxelmg&label=Profile%20views&color=0e75b6&style=flat" alt="mraxelmg" /> </p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
